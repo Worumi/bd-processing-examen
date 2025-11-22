@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ScalaCompilerConfiguration">
-    <option name="separateProdTestSources" value="true" />
-    <profile name="sbt 1" modules="bd-processing-examen_8162,bd-processing-examen_8162.main,bd-processing-examen_8162.test,bd-processing16,bd-processing16.main,bd-processing16.test,bd-processing16_7621,bd-processing16_7621.main,bd-processing16_7621.test" />
-  </component>
-</project>
